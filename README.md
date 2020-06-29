@@ -15,7 +15,10 @@ in a day). The problem follows these rules:
 
 • Officers cannot be in same square, same row, same column, or along the same diagonal.
 (Think of queens on a chess board)
+
 • Officers cannot move.
+
 • Activity points are collected at each time step t when officers are in same square as
 scooters. One point per each scooter.
+
 • The grid coordinate system will be indexed starting from the top-left corner.
